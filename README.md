@@ -1,7 +1,9 @@
-# Your Name's GitHub Portfolio
+![Header](./github-header-image.png)
+
+# Carlos's GitHub Portfolio
 
 Welcome to my GitHub portfolio! This repository serves as a showcase of my projects and contributions. Feel free to explore the various projects, view the source code, and get a sense of my skills and interests.
-
+<!--
 ## Projects
 
 ### Project 1: [Project Name](Link to Project)
@@ -27,39 +29,38 @@ List any significant contributions you've made to open-source projects or collab
 - [Contribution Name 1](Link to Contribution)
 - [Contribution Name 2](Link to Contribution)
 - ...
-
+-->
 ## Skills
 
-Highlight your technical skills, programming languages, tools, and frameworks that you are proficient in.
-
-- Programming Languages: Python, JavaScript, Java
-- Web Technologies: HTML, CSS, React.js
-- Database Management: MySQL, MongoDB
+- Programming Languages: JavaScript, Java
+- Web Technologies: HTML, CSS, <!--React.js-->
+- Database Management: MySQL, <!-- MongoDB -->
 - ...
 
 ## About Me
 
+I'm a recent graduate of a 14-week bootcamp @ Code for All (https://codeforall.com/).
+<!--
 Briefly introduce yourself, your background, and your interests. Include any relevant details that showcase your passion for coding and technology.
-
+-->
 ## Contact
 
 Provide information on how others can reach out to you or connect with you.
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](Link to LinkedIn)
-- Twitter: [@YourTwitterHandle](Link to Twitter)
-
+- Email: cmbvgalvao@gmail.com
+- LinkedIn: [Link to LinkedIn](https://www.linkedin.com/in/carlosgalvao13/)
+<!--
 ## License
 
 Specify the license for your projects if applicable. Choose an appropriate open-source license.
 
 ---
-
+-->
 Thank you for visiting my GitHub portfolio! I am always open to feedback and collaboration. Let's connect and build amazing things together!
 
 
 
-<!--![Header](./github-header-image.png)
+<!--
 
 ### Hi there 👋
 I'm Carlos from Portugal
