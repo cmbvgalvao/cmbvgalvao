@@ -2,7 +2,7 @@
 
 I'm Carlos from Portugal
 
-I'm a recent graduate of a 14-week bootcamp @ [<Code for All_>](https://codeforall.com/).
+I'm a recent graduate of a 14-week bootcamp @<Code for All_>(https://codeforall.com/).
 
 <!--
 **cmbvgalvao/cmbvgalvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
