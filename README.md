@@ -46,7 +46,7 @@ Briefly introduce yourself, your background, and your interests. Include any rel
 
 Provide information on how others can reach out to you or connect with you.
 
-- Email: cmbvgalvao@gmail.com
+- Email: [Link to Email](cmbvgalvao@gmail.com)
 - LinkedIn: [Link to LinkedIn](https://www.linkedin.com/in/carlosgalvao13/)
 <!--
 ## License
