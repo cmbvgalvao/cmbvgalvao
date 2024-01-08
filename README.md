@@ -35,7 +35,6 @@ List any significant contributions you've made to open-source projects or collab
 - Programming Languages: JavaScript, Java
 - Web Technologies: HTML, CSS, <!--React.js-->
 - Database Management: MySQL, <!-- MongoDB -->
-- ...
 
 ## About Me
 
