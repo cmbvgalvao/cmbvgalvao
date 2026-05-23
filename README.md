@@ -44,15 +44,3 @@ Multi-cloud infrastructure (AWS + GCP) · IAM provisioning across platforms · O
 
 **Software Engineering Bootcamp** · Code for All_ · `2023`  
 14-week intensive — JavaScript, Java, HTML/CSS, MySQL, full-stack foundations.
-
----
-
-## GitHub Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cmbvgalvao&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://streak-stats.demolab.com?user=cmbvgalvao&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmbvgalvao&layout=compact&theme=github_dark&hide_border=true" />
-
