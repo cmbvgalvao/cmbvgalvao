@@ -56,9 +56,3 @@ Multi-cloud infrastructure (AWS + GCP) · IAM provisioning across platforms · O
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmbvgalvao&layout=compact&theme=github_dark&hide_border=true" />
 
----
-
-## Let's connect
-
-Building infrastructure, automating systems, or hiring a cloud/IT engineer in Portugal?  
-Reach me at **cmbvgalvao@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/carlosgalvao13/).
