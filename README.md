@@ -1,83 +1,64 @@
-![Header](./github-header-image.png)
+# Carlos Galvão
+### IT Systems & Cloud Administrator · Lisbon, Portugal 🇵🇹
 
-# Carlos's GitHub Portfolio
-
-Welcome to my GitHub portfolio! This repository serves as a showcase of my projects and contributions. Feel free to explore the various projects, view the source code, and get a sense of my skills and interests.
-<!--
-## Projects
-
-### Project 1: [Project Name](Link to Project)
-
-![Project Image/Logo](Link to Image)
-
-Brief description of the project. Highlight key features and technologies used. Provide a link to the project for further exploration.
-
-### Project 2: [Project Name](Link to Project)
-
-![Project Image/Logo](Link to Image)
-
-Brief description of the project. Highlight key features and technologies used. Provide a link to the project for further exploration.
-
-### ...
-
-(Add more projects as necessary)
-
-## Contributions
-
-List any significant contributions you've made to open-source projects or collaborations with others.
-
-- [Contribution Name 1](Link to Contribution)
-- [Contribution Name 2](Link to Contribution)
-- ...
--->
-## Skills
-
-- Programming Languages: JavaScript, Java
-- Web Technologies: HTML, CSS, <!--React.js-->
-- Database Management: MySQL, <!-- MongoDB -->
-
-## About Me
-
-I'm a recent graduate of a 14-week bootcamp @ Code for All (https://codeforall.com/).
-<!--
-Briefly introduce yourself, your background, and your interests. Include any relevant details that showcase your passion for coding and technology.
--->
-## Contact
-
-Provide information on how others can reach out to you or connect with you.
-
-- Email: [Link to Email](mailto:cmbvgalvao@gmail.com)
-- LinkedIn: [Link to LinkedIn](https://www.linkedin.com/in/carlosgalvao13/)
-<!--
-## License
-
-Specify the license for your projects if applicable. Choose an appropriate open-source license.
+[![Open to Roles](https://img.shields.io/badge/Open_to_Roles-yes-3fb950?style=flat-square)](mailto:cmbvgalvao@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-carlosgalvao13-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosgalvao13/)
+[![Email](https://img.shields.io/badge/Email-cmbvgalvao@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:cmbvgalvao@gmail.com)
 
 ---
--->
-Thank you for visiting my GitHub portfolio! I am always open to feedback and collaboration. Let's connect and build amazing things together!
 
+Cloud and systems engineer with production experience across AWS and GCP — building reliable infrastructure, automating operations, and keeping things running at scale. Currently managing multi-cloud environments, IAM provisioning, networking, and ITSM tooling at [Code for All_](https://codeforall.com/). AWS Certified. Background in full-stack software engineering.
 
+---
 
-<!--
+## Stack
 
-### Hi there 👋
-I'm Carlos from Portugal
-I'm a recent graduate of a 14-week bootcamp @ Code for All (https://codeforall.com/).
--->
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+**Cloud:** AWS (S3, EC2, CloudFront, Route 53, IAM) · Google Cloud Platform · Virtualization  
+**Networking:** TCP/IP · DNS · DHCP · OpenVPN · Security Hardening  
+**Operations:** ITSM · HESK · Snipe-IT · Hardware Lifecycle · Asset Management  
+**Compliance:** ISO 9001 · ISO 27001  
+**Dev:** Full-Stack background (JS, Java, HTML/CSS, MySQL)
 
-<!--
-**cmbvgalvao/cmbvgalvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+
+---
+
+## Experience
+
+**IT Systems & Cloud Administrator** · Code for All_ — Lisbon  
+`Mar 2024 – Present`
+
+Multi-cloud infrastructure (AWS + GCP) · IAM provisioning across platforms · OpenVPN server & secure tunneling · Bash/Python workflow automation · Self-hosted ITSM deployment (HESK + Snipe-IT) · ISO 9001 & 27001 compliance authority · Cross-platform support (macOS, Windows, Linux)
+
+**Software Engineering Bootcamp** · Code for All_ · `2023`  
+14-week intensive — JavaScript, Java, HTML/CSS, MySQL, full-stack foundations.
+
+---
+
+## GitHub Stats
+
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cmbvgalvao&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://streak-stats.demolab.com?user=cmbvgalvao&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmbvgalvao&layout=compact&theme=github_dark&hide_border=true" />
+
+---
+
+## Let's connect
+
+Building infrastructure, automating systems, or hiring a cloud/IT engineer in Portugal?  
+Reach me at **cmbvgalvao@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/carlosgalvao13/).
